@@ -1,7 +1,6 @@
 #include <iostream>
 #include <vector>
 #include <cmath>
-
 #ifdef USE_DOUBLE
 using real_t = double;
 #else
